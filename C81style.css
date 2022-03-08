@@ -1,0 +1,16 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+	margin-top: 50px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-size: cover;
+}
+
+#canvas1{
+     border-style: ridge;
+	 margin-top: 50px;
+}
